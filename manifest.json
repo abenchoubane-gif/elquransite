@@ -1,0 +1,29 @@
+{
+  "name": "Al-Qur'ān al-Karīm — Le Noble Coran",
+  "short_name": "Al-Qurʾān",
+  "description": "Découvrez le Noble Coran : sourates, histoire de la révélation, sciences coraniques, invocations et radio coranique 24/7.",
+  "start_url": "/?source=pwa",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#0a1a3a",
+  "theme_color": "#0a1a3a",
+  "lang": "fr",
+  "dir": "ltr",
+  "categories": ["books", "education", "lifestyle"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/favicon-96x96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/favicon-48x48.png", "sizes": "48x48", "type": "image/png" },
+    { "src": "/favicon-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/favicon-16x16.png", "sizes": "16x16", "type": "image/png" },
+    { "src": "/favicon.png", "sizes": "64x64", "type": "image/png" }
+  ],
+  "screenshots": [
+    { "src": "/og-share.jpg", "sizes": "1200x630", "type": "image/jpeg", "form_factor": "wide" }
+  ]
+}
